@@ -1,5 +1,6 @@
+import { Component35 } from "./Component35";
 
 
 export const Component34=(props)=>{
-    return <div>dafvsg</div>
+    return<Component35 props35={props.props34}/> 
 }

@@ -1,11 +1,7 @@
-// import { Component28 } from "./Component28";
-
-// export const Component27=(props)=>{
-//     return<Component28 props28={props}/> 
-// }
-
-
+import { Component28 } from "./Component28";
 
 export const Component27=(props)=>{
-    return<div>wergtg</div> 
+    return<Component28 props28={props.props27}/> 
 }
+
+
