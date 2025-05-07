@@ -1,0 +1,5 @@
+import { Component13 } from "./Component13";
+
+export const Component12=(props)=>{
+    return<Component13 props13={props}/> 
+}
